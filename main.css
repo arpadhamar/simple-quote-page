@@ -1,0 +1,8 @@
+
+body{
+	height: 100%;
+	width: 100vh;
+	background: url(assets/freedom.jpg) no repeat center;
+	background-size: cover;
+	color:#333;
+}
